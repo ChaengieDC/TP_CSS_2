@@ -1,0 +1,37 @@
+h1{
+    color: #ff4545;
+    text-align: center;
+    text-shadow: 5px 5px 0 #a1c8f0;
+    font-size: 50px;
+}
+
+h2{ 
+    color: #479cfc;
+    font-size: 30px;
+}
+
+.unique{
+    text-align: right;
+    text-decoration: underline;
+    color: greenyellow;
+}
+
+p{ 
+    background-color: #f2c2ca;
+}
+
+.gris{ 
+    background-color: #dedede;
+}
+
+strong{
+    font-weight: normal;
+    color: #c5ff82;
+}
+
+em{ 
+    font-size: 25px;
+    font-style: normal;
+    text-decoration: underline;
+    color: orange;
+}
